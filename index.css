@@ -1,0 +1,16 @@
+body{
+    background-image: url("darkspace.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    font-family: "Comfortaa", sans-serif;
+    color:azure;
+}
+h2{
+    font-family: "Roboto", sans-serif;
+    color:azure;
+}
